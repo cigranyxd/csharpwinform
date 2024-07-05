@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\c# winforms\0703\0703\bin\Debug\0703.exe.config
+C:\Users\User\Desktop\c# winforms\0703\0703\bin\Debug\0703.exe
+C:\Users\User\Desktop\c# winforms\0703\0703\bin\Debug\0703.pdb
+C:\Users\User\Desktop\c# winforms\0703\0703\obj\Debug\0703.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c# winforms\0703\0703\obj\Debug\_0703.Form1.resources
+C:\Users\User\Desktop\c# winforms\0703\0703\obj\Debug\_0703.Properties.Resources.resources
+C:\Users\User\Desktop\c# winforms\0703\0703\obj\Debug\0703.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c# winforms\0703\0703\obj\Debug\0703.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c# winforms\0703\0703\obj\Debug\0703.exe
+C:\Users\User\Desktop\c# winforms\0703\0703\obj\Debug\0703.pdb
